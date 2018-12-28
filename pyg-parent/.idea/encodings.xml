@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://F:/alicom-dysms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast_sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-manager-web/src/main/resources/spring/spring-jms.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyg-page-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-page-service/src/main/resources/spring/applicationContext-jms-consumer.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyg-page-service/src/main/webapp/WEB-INF/ftl/item.ftl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyg-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-seckill-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-sellergoods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-shop-web" charset="UTF-8" />
+  </component>
+</project>

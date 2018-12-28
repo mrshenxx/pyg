@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+    <script>
+        //建立模块
+        var app = angular.module("myApp",[]);
+        //创建控制器   $scope就是控制层与视图层之间交换数据的桥梁
+        app.controller("myController",function ($scope) {
+
+            $scope.add=function () {
+                return parseInt($scope.x)+parseInt($scope.y);
+            }
+        });
+    </script>
+
+</head>
+<!--ng-app启动了angular程序,与上面模块保持一致-->
+<body ng-app="myApp" ng-controller="myController">
+
+第一个数:<input ng-model="x">  第二个数:<input ng-model="y">
+{{add()}}
+</body>
+</html>

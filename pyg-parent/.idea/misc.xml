@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="F:/aliyun-java-sdk-core/pom.xml" />
+        <option value="F:/aliyun-java-sdk-dysmsapi/pom.xml" />
+        <option value="F:/alicom-dysms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_sms/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

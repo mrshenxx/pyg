@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>循环数组</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+
+    <script>
+        //建立模块
+        var app = angular.module("myApp",[]);
+        //创建控制器
+        app.controller("myController",function ($scope) {
+
+            $scope.list=[111,222,333];
+
+        });
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="myController">
+
+<table>
+    <tr ng-repeat="p in list">
+      <td>{{p}}</td>
+    </tr>
+</table>
+</body>
+</html>

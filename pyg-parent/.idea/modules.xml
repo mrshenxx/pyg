@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/alicom-dysms-api/alicom-dysms-api.iml" filepath="F:/alicom-dysms-api/alicom-dysms-api.iml" />
+      <module fileurl="file://F:/aliyun-java-sdk-core/aliyun-java-sdk-core.iml" filepath="F:/aliyun-java-sdk-core/aliyun-java-sdk-core.iml" />
+      <module fileurl="file://F:/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi.iml" filepath="F:/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast_sms/itcast_sms.iml" filepath="$PROJECT_DIR$/itcast_sms/itcast_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-cart-interface/pyg-cart-interface.iml" filepath="$PROJECT_DIR$/pyg-cart-interface/pyg-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-cart-service/pyg-cart-service.iml" filepath="$PROJECT_DIR$/pyg-cart-service/pyg-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-cart-web/pyg-cart-web.iml" filepath="$PROJECT_DIR$/pyg-cart-web/pyg-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-common/pyg-common.iml" filepath="$PROJECT_DIR$/pyg-common/pyg-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-content-interface/pyg-content-interface.iml" filepath="$PROJECT_DIR$/pyg-content-interface/pyg-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-content-service/pyg-content-service.iml" filepath="$PROJECT_DIR$/pyg-content-service/pyg-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-dao/pyg-dao.iml" filepath="$PROJECT_DIR$/pyg-dao/pyg-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-manager-web/pyg-manager-web.iml" filepath="$PROJECT_DIR$/pyg-manager-web/pyg-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-order-interface/pyg-order-interface.iml" filepath="$PROJECT_DIR$/pyg-order-interface/pyg-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-order-service/pyg-order-service.iml" filepath="$PROJECT_DIR$/pyg-order-service/pyg-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-page-interface/pyg-page-interface.iml" filepath="$PROJECT_DIR$/pyg-page-interface/pyg-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-page-service/pyg-page-service.iml" filepath="$PROJECT_DIR$/pyg-page-service/pyg-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-page-web/pyg-page-web.iml" filepath="$PROJECT_DIR$/pyg-page-web/pyg-page-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-parent.iml" filepath="$PROJECT_DIR$/pyg-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-pay-interface/pyg-pay-interface.iml" filepath="$PROJECT_DIR$/pyg-pay-interface/pyg-pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-pay-service/pyg-pay-service.iml" filepath="$PROJECT_DIR$/pyg-pay-service/pyg-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-pojo/pyg-pojo.iml" filepath="$PROJECT_DIR$/pyg-pojo/pyg-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-portal-web/pyg-portal-web.iml" filepath="$PROJECT_DIR$/pyg-portal-web/pyg-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-search-interface/pyg-search-interface.iml" filepath="$PROJECT_DIR$/pyg-search-interface/pyg-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-search-service/pyg-search-service.iml" filepath="$PROJECT_DIR$/pyg-search-service/pyg-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-search-web/pyg-search-web.iml" filepath="$PROJECT_DIR$/pyg-search-web/pyg-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-seckill-interface/pyg-seckill-interface.iml" filepath="$PROJECT_DIR$/pyg-seckill-interface/pyg-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-seckill-service/pyg-seckill-service.iml" filepath="$PROJECT_DIR$/pyg-seckill-service/pyg-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-seckill-web/pyg-seckill-web.iml" filepath="$PROJECT_DIR$/pyg-seckill-web/pyg-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-sellergoods-interface/pyg-sellergoods-interface.iml" filepath="$PROJECT_DIR$/pyg-sellergoods-interface/pyg-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-sellergoods-service/pyg-sellergoods-service.iml" filepath="$PROJECT_DIR$/pyg-sellergoods-service/pyg-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-shop-web/pyg-shop-web.iml" filepath="$PROJECT_DIR$/pyg-shop-web/pyg-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-solr-util/pyg-solr-util.iml" filepath="$PROJECT_DIR$/pyg-solr-util/pyg-solr-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-user-interface/pyg-user-interface.iml" filepath="$PROJECT_DIR$/pyg-user-interface/pyg-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-user-service/pyg-user-service.iml" filepath="$PROJECT_DIR$/pyg-user-service/pyg-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-user-web/pyg-user-web.iml" filepath="$PROJECT_DIR$/pyg-user-web/pyg-user-web.iml" />
+    </modules>
+  </component>
+</project>

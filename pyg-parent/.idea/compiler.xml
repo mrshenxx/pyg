@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alicom-dysms-api" />
+        <module name="aliyun-java-sdk-core" />
+        <module name="aliyun-java-sdk-dysmsapi" />
+        <module name="itcast_sms" />
+        <module name="pyg-cart-interface" />
+        <module name="pyg-cart-service" />
+        <module name="pyg-cart-web" />
+        <module name="pyg-common" />
+        <module name="pyg-content-interface" />
+        <module name="pyg-content-service" />
+        <module name="pyg-dao" />
+        <module name="pyg-manager-web" />
+        <module name="pyg-order-interface" />
+        <module name="pyg-order-service" />
+        <module name="pyg-page-interface" />
+        <module name="pyg-page-service" />
+        <module name="pyg-page-web" />
+        <module name="pyg-pay-interface" />
+        <module name="pyg-pay-service" />
+        <module name="pyg-pojo" />
+        <module name="pyg-portal-web" />
+        <module name="pyg-search-interface" />
+        <module name="pyg-search-service" />
+        <module name="pyg-search-web" />
+        <module name="pyg-seckill-interface" />
+        <module name="pyg-seckill-service" />
+        <module name="pyg-seckill-web" />
+        <module name="pyg-sellergoods-interface" />
+        <module name="pyg-sellergoods-service" />
+        <module name="pyg-shop-web" />
+        <module name="pyg-solr-util" />
+        <module name="pyg-user-interface" />
+        <module name="pyg-user-service" />
+        <module name="pyg-user-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alicom-dysms-api" target="1.9" />
+      <module name="aliyun-java-sdk-core" target="1.6" />
+      <module name="aliyun-java-sdk-dysmsapi" target="1.6" />
+      <module name="itcast_sms" target="1.9" />
+      <module name="itcast_sms_service" target="1.9" />
+      <module name="pyg-cart-interface" target="1.9" />
+      <module name="pyg-cart-service" target="1.9" />
+      <module name="pyg-cart-web" target="1.8" />
+      <module name="pyg-common" target="1.9" />
+      <module name="pyg-content-interface" target="1.9" />
+      <module name="pyg-content-service" target="1.9" />
+      <module name="pyg-dao" target="1.9" />
+      <module name="pyg-manager-web" target="1.9" />
+      <module name="pyg-order-interface" target="1.9" />
+      <module name="pyg-order-service" target="1.9" />
+      <module name="pyg-page-interface" target="1.9" />
+      <module name="pyg-page-service" target="1.9" />
+      <module name="pyg-page-web" target="1.8" />
+      <module name="pyg-parent" target="1.9" />
+      <module name="pyg-pay-interface" target="1.9" />
+      <module name="pyg-pay-service" target="1.9" />
+      <module name="pyg-pojo" target="1.9" />
+      <module name="pyg-portal-web" target="1.8" />
+      <module name="pyg-search-interface" target="1.9" />
+      <module name="pyg-search-service" target="1.9" />
+      <module name="pyg-search-web" target="1.9" />
+      <module name="pyg-seckill-interface" target="1.9" />
+      <module name="pyg-seckill-service" target="1.9" />
+      <module name="pyg-seckill-web" target="1.8" />
+      <module name="pyg-sellergoods-interface" target="1.9" />
+      <module name="pyg-sellergoods-service" target="1.9" />
+      <module name="pyg-shop-web" target="1.8" />
+      <module name="pyg-solr-util" target="1.9" />
+      <module name="pyg-user-interface" target="1.9" />
+      <module name="pyg-user-service" target="1.9" />
+      <module name="pyg-user-web" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

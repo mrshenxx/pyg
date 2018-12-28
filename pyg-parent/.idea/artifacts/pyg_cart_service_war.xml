@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pyg-cart-service:war">
+    <output-path>$PROJECT_DIR$/pyg-cart-service/target</output-path>
+    <root id="archive" name="pyg-cart-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pyg-cart-service:war exploded" />
+    </root>
+  </artifact>
+</component>

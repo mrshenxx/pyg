@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pyg-sellergoods-service:war">
+    <output-path>$PROJECT_DIR$/pyg-sellergoods-service/target</output-path>
+    <root id="archive" name="pyg-sellergoods-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pyg-sellergoods-service:war exploded" />
+    </root>
+  </artifact>
+</component>

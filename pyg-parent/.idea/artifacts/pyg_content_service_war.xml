@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pyg-content-service:war">
+    <output-path>$PROJECT_DIR$/pyg-content-service/target</output-path>
+    <root id="archive" name="pyg-content-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pyg-content-service:war exploded" />
+    </root>
+  </artifact>
+</component>
